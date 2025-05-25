@@ -34,12 +34,3 @@ This repository contains the code and resources for a project comparing differen
   Utility functions for plotting (bar charts, scatter plots, heatmaps).  
 - **notebook_visualization.ipynb**  
   Jupyter notebook for rapid prototyping.
-
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-python3 -m venv .venv
-source .venv/bin/activate   # or .\.venv\Scripts\activate on Windows
-pip install -r requirements.txt
