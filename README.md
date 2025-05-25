@@ -5,7 +5,7 @@ This repository contains the code and resources for a project comparing differen
 ## Structure
 
 - **models/**  
-  Saved PyTorch checkpoints (`.pt`) of the trained LSTM model.  
+  Saved PyTorch checkpoints (`.pt`) of the trained LSTM model (too large for github).
 - **utils/**  
   Generated figures (bar charts, scatter plots, heatmaps, beam‐search trees) used in the report.  
 - **wikitext2/**  
