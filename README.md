@@ -19,7 +19,7 @@ This repository contains the code and resources for a project comparing differen
   - Top-k Sampling  
   - Nucleus (Top-p) Sampling  
 - **evaluation.py**  
-  Computes automatic metrics: BLEU, ROUGE, Levenshtein distance, perplexity.  
+  Computes automatic metrics: BLEU, ROUGE.
 - **generate_evaluations_plots.py**  
   Generates comparative performance plots for each decoding strategy.  
 - **generate_text.py**  
@@ -33,7 +33,7 @@ This repository contains the code and resources for a project comparing differen
 - **plot_utils.py**  
   Utility functions for plotting (bar charts, scatter plots, heatmaps).  
 - **notebook_visualization.ipynb**  
-  Jupyter notebook for rapid prototyping and previewing outputs interactively.
+  Jupyter notebook for rapid prototyping.
 
 ## ⚙️ Installation
 
